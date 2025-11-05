@@ -1,0 +1,47 @@
+# --------------------
+# Python Specific Files
+# --------------------
+
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Virtual Environment (in case you create one later)
+venv/
+env/
+
+# --------------------
+# PyInstaller Specific Files
+# --------------------
+
+# The temporary build folder and the final executable directory
+build/
+dist/
+
+# The specification file (can often be regenerated)
+*.spec
+
+# --------------------
+# IDE Specific Files (Looks like you're using PyCharm/IntelliJ)
+# --------------------
+
+# IntelliJ/PyCharm project files
+.idea/
+
+# --------------------
+# Jupyter Notebook Checkpoints
+# --------------------
+
+# Temporary checkpoints for IPython/Jupyter
+.ipynb_checkpoints/
+
+# --------------------
+# Files to KEEP (for reference)
+# --------------------
+
+# Keep the two main scripts
+# HMM_v0_02IPY.py
+# main.py
+
+# Keep the dependency list
+# requirements.txt
