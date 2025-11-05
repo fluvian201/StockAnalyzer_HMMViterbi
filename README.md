@@ -46,3 +46,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### NOTE: THE STOCK 2 IS BEING THE OBSERVATION, SO THE STOCK 1 IS THE TARGET FOR THE HIDDEN PATH
