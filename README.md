@@ -47,5 +47,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-[Preview](img/preview.png)
+([img/preview.png](https://raw.githubusercontent.com/fluvian201/StockAnalyzer_HMMViterbi/refs/heads/main/img/preview.png))
 ### NOTE: THE STOCK 2 IS BEING THE OBSERVATION, SO THE STOCK 1 IS THE TARGET FOR THE HIDDEN PATH
